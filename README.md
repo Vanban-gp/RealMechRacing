@@ -1,5 +1,5 @@
 # RealMechRacing
-Game - racing. \n
+Game - racing.
 Language - C++
 Libraries - standart C++ libraries, OpenGL.
 Files:
